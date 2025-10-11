@@ -1,0 +1,7 @@
+print("Bienvenido")
+numero = float(input("Ingrese un Número: "))
+
+if numero % 2 == 0:
+    print("El Número Ingresado es Par")
+else:
+    print("El Número Ingresado es Impar")
